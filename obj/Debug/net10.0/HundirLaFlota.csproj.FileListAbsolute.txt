@@ -1,0 +1,4 @@
+/Users/zoyaahmed/Desktop/HundirLaFlota/obj/Debug/net10.0/HundirLaFlota.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zoyaahmed/Desktop/HundirLaFlota/obj/Debug/net10.0/HundirLaFlota.AssemblyInfoInputs.cache
+/Users/zoyaahmed/Desktop/HundirLaFlota/obj/Debug/net10.0/HundirLaFlota.AssemblyInfo.cs
+/Users/zoyaahmed/Desktop/HundirLaFlota/obj/Debug/net10.0/HundirLaFlota.csproj.CoreCompileInputs.cache
