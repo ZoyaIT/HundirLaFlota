@@ -1,0 +1,12 @@
+/Users/zoyaahmed/Desktop/HundirLaFlota/obj/Debug/net10.0/HundirLaFlota.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zoyaahmed/Desktop/HundirLaFlota/obj/Debug/net10.0/HundirLaFlota.csproj.CoreCompileInputs.cache
+/Users/zoyaahmed/Desktop/HundirLaFlota/bin/Debug/net10.0/HundirLaFlota
+/Users/zoyaahmed/Desktop/HundirLaFlota/bin/Debug/net10.0/HundirLaFlota.deps.json
+/Users/zoyaahmed/Desktop/HundirLaFlota/bin/Debug/net10.0/HundirLaFlota.runtimeconfig.json
+/Users/zoyaahmed/Desktop/HundirLaFlota/bin/Debug/net10.0/HundirLaFlota.dll
+/Users/zoyaahmed/Desktop/HundirLaFlota/bin/Debug/net10.0/HundirLaFlota.pdb
+/Users/zoyaahmed/Desktop/HundirLaFlota/obj/Debug/net10.0/HundirLaFlota.dll
+/Users/zoyaahmed/Desktop/HundirLaFlota/obj/Debug/net10.0/refint/HundirLaFlota.dll
+/Users/zoyaahmed/Desktop/HundirLaFlota/obj/Debug/net10.0/HundirLaFlota.pdb
+/Users/zoyaahmed/Desktop/HundirLaFlota/obj/Debug/net10.0/HundirLaFlota.genruntimeconfig.cache
+/Users/zoyaahmed/Desktop/HundirLaFlota/obj/Debug/net10.0/ref/HundirLaFlota.dll
